@@ -1,4 +1,6 @@
 # shodan-script
+The script uses the Shodan CLI to interface with the Shodan API and parse the search results.
+
 run the following command:
 
 ```console
